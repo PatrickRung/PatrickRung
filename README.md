@@ -1,4 +1,10 @@
 ### Hi there 👋
+### 🔭 I’m currently working on Titanfall 3 (Unofficial)
+### 🌱 I’m currently learning HLSL
+### 👯 I’m looking for people to help me with Titanfall 3
+### 📫 How to reach me: patrirun@cs.washington.edu
+### ⚡ Fun fact: I have 20 dollars in Esports earnings
+
 
 <!--
 **PatrickRung/PatrickRung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
