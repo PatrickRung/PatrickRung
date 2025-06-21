@@ -1,5 +1,4 @@
 ### Hi there 👋
-### 🔭 I’m currently tryin my best
 ### 📫 How to reach me: patrirun@cs.washington.edu
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickRung)](https://github.com/anuraghazra/github-readme-stats)
 
