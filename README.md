@@ -1,7 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on Titanfall 3 (Unofficial)
-### 🌱 I’m currently learning HLSL
-### 👯 I’m looking for people to help me with Titanfall 3
+### 🔭 I’m currently tryin my best
 ### 📫 How to reach me: patrirun@cs.washington.edu
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickRung)](https://github.com/anuraghazra/github-readme-stats)
 
